@@ -1,0 +1,1 @@
+# Oficina-de-Vibe-Coding-Recnplay-2026
