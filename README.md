@@ -43,7 +43,7 @@ A inteligência artificial pode ajudar a construir, mas é preciso saber o que q
 
 ## PDR — PRODUCT REQUIREMENTS DOCUMENT 
 
-## Produto: QuizLab — Desafio de Conhecimentos
+# Produto: QuizLab — Desafio de Conhecimentos
 
 1. Visão geral do produto
 
@@ -222,7 +222,7 @@ Teste também situações como tentar avançar sem responder, responder à mesma
 
 ## PDR — PRODUCT REQUIREMENTS DOCUMENT
 
-## Meu Pet Digital — Simulador de Bichinho Virtual
+# Meu Pet Digital — Simulador de Bichinho Virtual
 
 1. Visão geral do produto
 
