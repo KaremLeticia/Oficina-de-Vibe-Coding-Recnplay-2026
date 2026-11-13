@@ -16,7 +16,7 @@ Os participantes poderão escolher entre quatro modelos iniciais:
 
 - **Jogo de vestir:** personalize personagens com roupas e acessórios -> **[vibe & veste](https://vibe-e-veste.lovable.app)**
 - **Quiz interativo:** crie um jogo de perguntas e respostas com pontuação -> **[quizlab](https://curious-culture-challenge.lovable.app)** 
-- **Bichinho virtual:** cuide de um animal virtual e acompanhe suas necessidades ->  **[quizlab](https://petal-paws-care-club.lovable.app)** 
+- **Bichinho virtual:** cuide de um animal virtual e acompanhe suas necessidades ->  **[my little pet](https://petal-paws-care-club.lovable.app)** 
 
 Cada modelo funciona como ponto de partida para personalizações e novas funcionalidades.
 
