@@ -34,7 +34,6 @@ Cada modelo funciona como ponto de partida para personalizações e novas funcio
 **Lovable:** plataforma de desenvolvimento de aplicações web com auxílio de inteligência artificial.
 
 - Site: https://lovable.dev/
-- Meu perfil no Lovable: **[ADICIONAR LINK DO PERFIL]**
 
 ## Uma ideia importante
 
