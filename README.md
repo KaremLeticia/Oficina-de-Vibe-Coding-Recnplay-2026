@@ -14,7 +14,7 @@ A oficina não exige experiência prévia com programação. O objetivo é exper
 
 Os participantes poderão escolher entre quatro modelos iniciais:
 
-- **Jogo de vestir:** personalize personagens com roupas e acessórios.
+- **Jogo de vestir:** personalize personagens com roupas e acessórios. **[vibe & veste](https://vibe-e-veste.lovable.app)**
 - **Jogo de maquiagem:** experimente produtos, cores e diferentes estilos.
 - **Quiz interativo:** crie um jogo de perguntas e respostas com pontuação.
 - **Bichinho virtual:** cuide de um animal virtual e acompanhe suas necessidades.
